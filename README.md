@@ -31,4 +31,7 @@ superset-worker-75b48bbcc-jmmjr         1/1     Running     0          4m8s
 superset-worker-75b48bbcc-qrq49         1/1     Running     0          4m12s
 ```
 
-Ref: https://superset.apache.org/docs/installation/running-on-kubernetes/
+Ref: 
+- Running Apache Superset on Kubernetes: https://superset.apache.org/docs/installation/running-on-kubernetes/   
+- Security recommendation: https://superset.apache.org/docs/installation/running-on-kubernetes/#important-settings
+
