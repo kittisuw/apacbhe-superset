@@ -33,5 +33,6 @@ superset-worker-75b48bbcc-qrq49         1/1     Running     0          4m12s
 
 Ref: 
 - Running Apache Superset on Kubernetes: https://superset.apache.org/docs/installation/running-on-kubernetes/   
-- Security recommendation: https://superset.apache.org/docs/installation/running-on-kubernetes/#important-settings
+- Security recommendation: https://superset.apache.org/docs/installation/running-on-kubernetes/#important-settings   
 
+- Scaling Apache Superset on Kubernetes: https://youtu.be/Lizg1LzMEhE?si=XdKB_9m3arU9vICg
