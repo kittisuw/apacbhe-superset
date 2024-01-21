@@ -5,10 +5,14 @@
 helm repo add superset https://apache.github.io/superset
 helm search repo superset
 ```
-## 1. Genarate secret and add secret to values.yaml
-````shell
+## 1. Genarate secret and add secret to my-values.yaml
+```shell
 openssl rand -base64 42
-````
+```
+Result : 
+```shell
+sdH5DCISevZwqmHquB/Mp+8r5v7b8SBxSvZYAXiTJIQce4vRPHxaEbU4
+```
 ## 2. Install and Run
 ```shell
 helm upgrade --install --values my-values.yaml superset superset/superset
